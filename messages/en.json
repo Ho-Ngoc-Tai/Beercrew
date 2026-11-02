@@ -1,0 +1,34 @@
+{
+  "common": {
+    "appName": "Beercrew Social Planner",
+    "dashboard": "Dashboard",
+    "tickets": "Events & Gatherings",
+    "chats": "Live Chat Room",
+    "users": "Members",
+    "logout": "Sign Out",
+    "login": "Sign In",
+    "search": "Search...",
+    "status": "Status",
+    "actions": "Actions",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "save": "Save changes",
+    "create": "Create new"
+  },
+  "tickets": {
+    "title": "Gathering & Event Management",
+    "subtitle": "Track RSVP, venue voting, bill splitting, and automated confirmation",
+    "createButton": "Create Event",
+    "totalCount": "Total Events",
+    "filterAll": "All",
+    "filterOpen": "Open",
+    "filterLocked": "Locked",
+    "filterPaid": "Settled",
+    "filterCancelled": "Cancelled"
+  },
+  "chats": {
+    "title": "Live Gathering Chat",
+    "subtitle": "Real-time communication, location pinging and payment alerts",
+    "sendMessage": "Type your message..."
+  }
+}

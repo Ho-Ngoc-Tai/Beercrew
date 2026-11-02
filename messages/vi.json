@@ -1,0 +1,34 @@
+{
+  "common": {
+    "appName": "Chốt Kèo Social Planner",
+    "dashboard": "Bảng Điều Khiển",
+    "tickets": "Kèo Nhậu & Sự Kiện",
+    "chats": "Live Chat Phòng Chờ",
+    "users": "Thành Viên Nhóm",
+    "logout": "Đăng Xuất",
+    "login": "Đăng Nhập",
+    "search": "Tìm kiếm...",
+    "status": "Trạng thái",
+    "actions": "Hành động",
+    "cancel": "Hủy bỏ",
+    "confirm": "Xác nhận",
+    "save": "Lưu thay đổi",
+    "create": "Tạo mới"
+  },
+  "tickets": {
+    "title": "Quản Lý Kèo Nhậu & Sự Kiện",
+    "subtitle": "Theo dõi trạng thái, bình chọn địa điểm, chia bill và chốt kèo tự động",
+    "createButton": "Chốt Kèo Mới",
+    "totalCount": "Tổng số kèo",
+    "filterAll": "Tất cả",
+    "filterOpen": "Đang mở",
+    "filterLocked": "Đã chốt kèo",
+    "filterPaid": "Đã ting-ting",
+    "filterCancelled": "Đã hủy"
+  },
+  "chats": {
+    "title": "Live Chat Kèo Nhậu",
+    "subtitle": "Trao đổi tức thời, cập nhật vị trí và thông báo ting-ting theo thời gian thực",
+    "sendMessage": "Gửi tin nhắn..."
+  }
+}

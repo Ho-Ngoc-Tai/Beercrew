@@ -1,0 +1,8 @@
+import { DASHBOARD_PAGE, EXPENSES_PAGE, DEBTS_PAGE, REPORTS_PAGE } from "./web";
+
+export const WEB_PRIVATE_ROUTE: string[] = [
+  DASHBOARD_PAGE,
+  EXPENSES_PAGE,
+  DEBTS_PAGE,
+  REPORTS_PAGE,
+];
